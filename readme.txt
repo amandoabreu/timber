@@ -24,7 +24,7 @@ _Twig is the template language powering Timber; if you need a little background 
 * [Overview / Getting Started Guide](https://github.com/timber/timber/wiki/getting-started)
 
 #### Related Projects
-* [**Timber Debug Bar**](http://wordpress.org/plugins/debug-bar-timber/) Adds a debug bar panel that will show you want template is in-use and the data sent to your twig file.
+* [**Timber Debug Bar**](http://wordpress.org/plugins/debug-bar-timber/) Adds a debug bar panel that will show you what template is in-use and the data sent to your twig file.
 
 #### What does it look like?
 Nothing. Timber is meant for you to build a theme on. Like the [Starkers](https://github.com/viewportindustries/starkers) or [_s theme](https://github.com/Automattic/_s) it comes style-free, because you're the style expert. Instead, Timber handles the logic you need to make a kick-ass looking site.
